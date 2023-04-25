@@ -147,3 +147,4 @@ Das Repository für *sehr gute* Anke-Wortspiele.
 | AnkeRissen                            | der Shorts-Kanal               |
 | AnkeRt                                | der Boots-Kanal                |
 | Anke-Morpork                          | der Terry-Pratchett-Kanal      |
+| AnKetamin                             | Der Betäubungskanal            |
