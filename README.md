@@ -112,7 +112,6 @@ Das Repository für *sehr gute* Anke-Wortspiele.
 | AnkeWorfen                            | der Handballkanal              |
 | AnkeBahnt                             | der ÖPNV Kanal                 |
 | AnkeSägt                              | der Heimwerkkanal              |
-| AnkeSägt                              | der Heimwerkkanal              |
 | AnkeBunden                            | der SM-Kanal                   |
 | AnkeSpuckt                            | der Lamakanal                  |
 | AnkeGrenzt                            | der Geographiekanal            |
