@@ -147,3 +147,4 @@ Das Repository für *sehr gute* Anke-Wortspiele.
 | AnkeWorben                            | der Marketingkanal             |
 | AnkeRissen                            | der Shorts-Kanal               |
 | AnkeKommen                            | die Neos-Onboarding-Guidelines |
+| AnkePrangert                          | der Verbraucherschutzkanal     |
