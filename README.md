@@ -111,6 +111,7 @@ Das Repository für *sehr gute* Anke-Wortspiele.
 | AnkeStürmt                            | der Fußballkanal               |
 | AnkeWorfen                            | der Handballkanal              |
 | AnkeBahnt                             | der ÖPNV Kanal                 |
+| AnkeSägt                              | der Heimwerkkanal              |
 | AnkeBunden                            | der SM-Kanal                   |
 | AnkeSpuckt                            | der Lamakanal                  |
 | AnkeGrenzt                            | der Geographiekanal            |
@@ -147,3 +148,5 @@ Das Repository für *sehr gute* Anke-Wortspiele.
 | AnkeWorben                            | der Marketingkanal             |
 | AnkeRissen                            | der Shorts-Kanal               |
 | AnkeNervt                             | der Schlechte-Laune-Kanal      |
+| AnkeKommen                            | die Neos-Onboarding-Guidelines |
+| AnkePrangert                          | der Verbraucherschutzkanal     |
