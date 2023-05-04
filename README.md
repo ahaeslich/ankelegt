@@ -132,6 +132,7 @@ Das Repository für *sehr gute* Anke-Wortspiele.
 | AnkeNehm                              | der Wohlfühlkanal              |
 | AnkeHoben                             | der Gabelstablerkanal          |
 | AnkeKnotet                            | der Seemannskanal              |
+| AnkeRt                                | der Boots-Kanal                |
 | AnkeSchwärzt                          | der Datenschutzkanal           |
 | AnkeTeasert                           | der Cliff-Hanger-Kanal         |
 | AnkeTackert                           | der Bürobedarfkanal            |
@@ -146,5 +147,6 @@ Das Repository für *sehr gute* Anke-Wortspiele.
 | AnkeLehnt                             | der Stuhlkanal                 |
 | AnkeWorben                            | der Marketingkanal             |
 | AnkeRissen                            | der Shorts-Kanal               |
+| AnkeNervt                             | der Schlechte-Laune-Kanal      |
 | AnkeKommen                            | die Neos-Onboarding-Guidelines |
 | AnkePrangert                          | der Verbraucherschutzkanal     |
