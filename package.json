@@ -1,0 +1,24 @@
+{
+  "name": "ankelegt",
+  "version": "1.0.0",
+  "description": "Das Repository für sehr gute Anke-Wortspiele.",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "node test/run.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ahaeslich/ankelegt.git"
+  },
+  "author": "Anke Häslich",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ahaeslich/ankelegt/issues"
+  },
+  "devDependencies": {
+    "ajv": "^8.12.0",
+    "prettier": "^2.8.8"
+  }
+}
