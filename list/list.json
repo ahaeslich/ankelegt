@@ -1,0 +1,491 @@
+{
+  "channels": [
+    {
+      "name": "AnkeBacken",
+      "description": "der Backkanal"
+    },
+    {
+      "name": "AnkeKlebt",
+      "description": "der Bastelkanal"
+    },
+    {
+      "name": "AnkeDeutet",
+      "description": "der Astrokanal"
+    },
+    {
+      "name": "AnkeSpielt",
+      "description": "der Let's Play Kanal"
+    },
+    {
+      "name": "AnkeSprochen",
+      "description": "das Talkformat"
+    },
+    {
+      "name": "AnkeFahren",
+      "description": "der Dash-Cam Kanal"
+    },
+    {
+      "name": "AnkeSagt",
+      "description": "der Trends Kanal"
+    },
+    {
+      "name": "AnkeZapft",
+      "description": "der Bierkanal"
+    },
+    {
+      "name": "AnkeZählt",
+      "description": "der Mathekanal",
+      "alts": [
+        "AnkeRechnet"
+      ]
+    },
+    {
+      "name": "AnkeTanzt",
+      "description": "der Tanzkanal"
+    },
+    {
+      "name": "AnkeBaut",
+      "description": "der DIY Kanal"
+    },
+    {
+      "name": "AnkeFixt",
+      "description": "der Drogenkanal"
+    },
+    {
+      "name": "AnkeReist",
+      "description": "der Reise VLog"
+    },
+    {
+      "name": "AnkeKratzt",
+      "description": "der Winterkanal"
+    },
+    {
+      "name": "AnkeSchaut",
+      "description": "das Serienformat"
+    },
+    {
+      "name": "AnkeZahlt",
+      "description": "der Steuerkanal"
+    },
+    {
+      "name": "AnkeLernt",
+      "description": "der Schulungskanal"
+    },
+    {
+      "name": "AnkeSteckt",
+      "description": "der Krippekanal"
+    },
+    {
+      "name": "AnkeLacht",
+      "description": "der Comedykanal"
+    },
+    {
+      "name": "AnkePflanzt",
+      "description": "das Gartenmagazin"
+    },
+    {
+      "name": "AnkeStimmt",
+      "description": "der Gesangskanal"
+    },
+    {
+      "name": "AnkeMietet",
+      "description": "der Immobilienkanal"
+    },
+    {
+      "name": "AnkeBissen",
+      "description": "der Angelkanal"
+    },
+    {
+      "name": "AnkeLaufen",
+      "description": "der Wanderkanal"
+    },
+    {
+      "name": "AnkeBoten",
+      "description": "das Kleinanzeigenformat"
+    },
+    {
+      "name": "AnkeLeint",
+      "description": "der Segelkanal"
+    },
+    {
+      "name": "AnkeSchmiert",
+      "description": "der Grafitikanal"
+    },
+    {
+      "name": "AnkeLiefert",
+      "description": "der Postkanal"
+    },
+    {
+      "name": "AnkeSammelt",
+      "description": "der Sammlerkanal"
+    },
+    {
+      "name": "AnkeTestet",
+      "description": "der Produkttestkanal"
+    },
+    {
+      "name": "AnkeMerkt",
+      "description": "der Alzheimerkanal"
+    },
+    {
+      "name": "AnkeDackelt",
+      "description": "der Hundekanal"
+    },
+    {
+      "name": "AnkeFlogen",
+      "description": "der Flugzeugkanal"
+    },
+    {
+      "name": "AnkeFeuert",
+      "description": "der Fan-Kanal"
+    },
+    {
+      "name": "AnkeSchwebt",
+      "description": "der Meditationskanal"
+    },
+    {
+      "name": "AnkeWurzelt",
+      "description": "der Kräuterkanal"
+    },
+    {
+      "name": "AnkeSchoben",
+      "description": "der Rollstuhlkanal"
+    },
+    {
+      "name": "AnkeHört",
+      "description": "der Musikkanal"
+    },
+    {
+      "name": "AnkeNäht",
+      "description": "der Nähkanal"
+    },
+    {
+      "name": "AnkeTäuscht",
+      "description": "der Prankkanal"
+    },
+    {
+      "name": "AnkeRitten",
+      "description": "der Reitsportkanal"
+    },
+    {
+      "name": "AnkeBaggert",
+      "description": "der Flirtkanal"
+    },
+    {
+      "name": "AnkeSprungen",
+      "description": "das Trampulinformat"
+    },
+    {
+      "name": "AnkeTroffen",
+      "description": "der Meet'n'Greet Kanal"
+    },
+    {
+      "name": "AnkeBallert",
+      "description": "der Schusswaffenkanal"
+    },
+    {
+      "name": "AnkeKippt",
+      "description": "der Fensterkanal"
+    },
+    {
+      "name": "AnkeDonnert",
+      "description": "der Wetterkanal"
+    },
+    {
+      "name": "AnkeDroht",
+      "description": "der Mafia Kanal"
+    },
+    {
+      "name": "AnkeKlagt",
+      "description": "der Justizkanal"
+    },
+    {
+      "name": "AnkeStaubt",
+      "description": "der Antikkanal"
+    },
+    {
+      "name": "AnkeKreuzt",
+      "description": "der Lotto- oder Wahlkanal"
+    },
+    {
+      "name": "AnkeBeten",
+      "description": "der Religionskanal"
+    },
+    {
+      "name": "AnkeSchwemmt",
+      "description": "der Strandkanal"
+    },
+    {
+      "name": "AnkeRufen",
+      "description": "der Call-In Kanal"
+    },
+    {
+      "name": "AnkeDacht",
+      "description": "der Trauerbewältigungskanal"
+    },
+    {
+      "name": "AnkeMalt",
+      "description": "der Gemäldekanal"
+    },
+    {
+      "name": "AnkeKnabbert",
+      "description": "der Knabberkanal"
+    },
+    {
+      "name": "AnkeNagt",
+      "description": "der Kleintierkanal"
+    },
+    {
+      "name": "AnkeKleidet",
+      "description": "der Modekanal"
+    },
+    {
+      "name": "AnkeSchrieben",
+      "description": "der Kassenbuchkanal"
+    },
+    {
+      "name": "AnkeKnallt",
+      "description": "der Pyrokanal",
+      "alts": [
+        "AnkeZündelt",
+        "AnkeKokelt"
+      ]
+    },
+    {
+      "name": "AnkeTAN",
+      "description": "der Online-Banking Kanal"
+    },
+    {
+      "name": "AnkeHeizt",
+      "description": "der Kaminkanal"
+    },
+    {
+      "name": "AnkeKlickt",
+      "description": "das Internet-Erklär-Format"
+    },
+    {
+      "name": "AnkeKlemmt",
+      "description": "der Elektrokanal"
+    },
+    {
+      "name": "AnkeWies(e)n",
+      "description": "der Oktoberfest Kanal"
+    },
+    {
+      "name": "AnkeStrichen",
+      "description": "der Rechtschreibkanal"
+    },
+    {
+      "name": "AnkeSäuert",
+      "description": "der Fermentierkanal"
+    },
+    {
+      "name": "AnkeRannt",
+      "description": "der Laufsportkanal"
+    },
+    {
+      "name": "AnkeGrillt",
+      "description": "der BBQ Kanal"
+    },
+    {
+      "name": "AnkeBlickt",
+      "description": "der Optikerkanal"
+    },
+    {
+      "name": "AnkeFangen",
+      "description": "der Tutorial Kanal"
+    },
+    {
+      "name": "AnkeStrengt",
+      "description": "der Arbeitskanal"
+    },
+    {
+      "name": "AnkeBrochen",
+      "description": "das Aufbrauchformat"
+    },
+    {
+      "name": "AnkeSpornt",
+      "description": "der Motivationskanal"
+    },
+    {
+      "name": "AnkeKotzt",
+      "description": "der Abnehmkanal"
+    },
+    {
+      "name": "AnkeMotzt",
+      "description": "der Rant Kanal"
+    },
+    {
+      "name": "AnkeStiftet",
+      "description": "der Aufstachelkanal"
+    },
+    {
+      "name": "AnkeStürmt",
+      "description": "der Fußballkanal"
+    },
+    {
+      "name": "AnkeWorfen",
+      "description": "der Handballkanal"
+    },
+    {
+      "name": "AnkeBahnt",
+      "description": "der ÖPNV Kanal"
+    },
+    {
+      "name": "AnkeSägt",
+      "description": "der Heimwerkkanal"
+    },
+    {
+      "name": "AnkeBunden",
+      "description": "der SM-Kanal"
+    },
+    {
+      "name": "AnkeSpuckt",
+      "description": "der Lamakanal"
+    },
+    {
+      "name": "AnkeGrenzt",
+      "description": "der Geographiekanal"
+    },
+    {
+      "name": "AnkeRichtet",
+      "description": "der Catering Kanal"
+    },
+    {
+      "name": "AnkeFasst",
+      "description": "der #meToo Kanal"
+    },
+    {
+      "name": "AnkeTastet",
+      "description": "der Fühlkanal"
+    },
+    {
+      "name": "AnkeLümmelt",
+      "description": "der Sofakanal"
+    },
+    {
+      "name": "AnkeKuschelt",
+      "description": "der Plüschtierkanal"
+    },
+    {
+      "name": "AnkeHimmelt",
+      "description": "der Sternekanal"
+    },
+    {
+      "name": "AnkeBumst",
+      "description": "der Schwangerschaftskanal"
+    },
+    {
+      "name": "AnkeFunkt",
+      "description": "der Radiosender"
+    },
+    {
+      "name": "AnkeRempelt",
+      "description": "der Pogo-Kanal"
+    },
+    {
+      "name": "AnkeLockt",
+      "description": "der Knusperhäuschen-Kanal"
+    },
+    {
+      "name": "AnkeTaut",
+      "description": "der Entfrostkanal"
+    },
+    {
+      "name": "AnkeHustet",
+      "description": "der Corona Kanal"
+    },
+    {
+      "name": "AnkeHaucht",
+      "description": "der ASMR-Kanal"
+    },
+    {
+      "name": "AnkeZweifelt",
+      "description": "der Verschwörungstheorie-Kanal"
+    },
+    {
+      "name": "AnkeNehm",
+      "description": "der Wohlfühlkanal"
+    },
+    {
+      "name": "AnkeHoben",
+      "description": "der Gabelstablerkanal"
+    },
+    {
+      "name": "AnkeKnotet",
+      "description": "der Seemannskanal"
+    },
+    {
+      "name": "AnkeRt",
+      "description": "der Boots-Kanal"
+    },
+    {
+      "name": "AnkeSchwärzt",
+      "description": "der Datenschutzkanal"
+    },
+    {
+      "name": "AnkeTeasert",
+      "description": "der Cliff-Hanger-Kanal"
+    },
+    {
+      "name": "AnkeTackert",
+      "description": "der Bürobedarfkanal"
+    },
+    {
+      "name": "AnkePriesen",
+      "description": "der Werbekanal"
+    },
+    {
+      "name": "AnkeSetzt",
+      "description": "der (Letter-)Druck-Kanal"
+    },
+    {
+      "name": "AnkeLangt",
+      "description": "der \"Halt Stop!\"-Kanal"
+    },
+    {
+      "name": "AnkeBracht",
+      "description": "der passende Kanal"
+    },
+    {
+      "name": "AnkeWärmt",
+      "description": "der Deckenkanal"
+    },
+    {
+      "name": "AnkeSchafft",
+      "description": "der Workaholic Kanal"
+    },
+    {
+      "name": "AnkeRöstet",
+      "description": "der Kaffeekanal"
+    },
+    {
+      "name": "AnkeFlattert",
+      "description": "der Insektenkanal"
+    },
+    {
+      "name": "AnkeLehnt",
+      "description": "der Stuhlkanal"
+    },
+    {
+      "name": "AnkeWorben",
+      "description": "der Marketingkanal"
+    },
+    {
+      "name": "AnkeRissen",
+      "description": "der Shorts-Kanal"
+    },
+    {
+      "name": "AnkeNervt",
+      "description": "der Schlechte-Laune-Kanal"
+    },
+    {
+      "name": "AnkeKommen",
+      "description": "die Neos-Onboarding-Guidelines"
+    },
+    {
+      "name": "AnkePrangert",
+      "description": "der Verbraucherschutzkanal"
+    }
+  ]
+}
