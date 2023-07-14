@@ -487,5 +487,9 @@
       "name": "AnkePrangert",
       "description": "der Verbraucherschutzkanal"
     }
+    {
+      "name": "AnkeTrunken",
+      "description": "der Alkoholikerkanal"
+    }
   ]
 }
