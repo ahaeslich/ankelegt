@@ -486,6 +486,18 @@
     {
       "name": "AnkePrangert",
       "description": "der Verbraucherschutzkanal"
+    },
+    {
+      "name": "AnkeFochten",
+      "description": "der Revisionskanal"
+    },
+    {
+      "name": "AnkeReichert",
+      "description": "der Zusatzkanal"
+    },
+    {
+      "name": "VorAnkeKommen",
+      "description": "der Fortschrittskanal"
     }
   ]
 }
