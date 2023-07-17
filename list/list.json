@@ -313,7 +313,10 @@
     },
     {
       "name": "AnkeMotzt",
-      "description": "der Rant Kanal"
+      "description": "der Rant Kanal",
+      "alts": [
+        "AnkeMeckert"
+      ]
     },
     {
       "name": "AnkeStiftet",
@@ -486,6 +489,26 @@
     {
       "name": "AnkePrangert",
       "description": "der Verbraucherschutzkanal"
+    },
+    {
+      "name": "AnkeQuatscht",
+      "description": "der Kennenlern-Kanal"
+    },
+    {
+      "name": "AnkeDotzt",
+      "description": "der Autoscooter-Kanal"
+    },
+    {
+      "name": "AnkeNommen",
+      "description": "der \"Was wäre wenn\"-Kanal"
+    },
+    {
+      "name": "AnkeFressen",
+      "description": "der Schlechte-Laune-Kanal"
+    },
+    {
+      "name": "AnkeLassen",
+      "description": "der Engine-Colt-Start-Kanal"
     }
   ]
 }
