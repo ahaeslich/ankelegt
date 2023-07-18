@@ -498,6 +498,18 @@
     {
       "name": "VorAnkeKommen",
       "description": "der Fortschrittskanal"
+    },
+    {
+      "name": "AnkeBlich",
+      "description": "der Hochstaplerkanal"
+    },
+    {
+      "name": "AnkeStrengt",
+      "description": "der Quahlnal"
+    },
+    {
+      "name": "AnkeFügt",
+      "description": "der Extension-Kanal"
     }
   ]
 }
