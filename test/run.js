@@ -11,4 +11,5 @@ if (isValid) {
 } else {
   const errors = validate.errors
   errors.forEach((error) => console.error(error))
+  process.exit(1)
 }
