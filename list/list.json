@@ -491,6 +491,10 @@
       "description": "der Verbraucherschutzkanal"
     },
     {
+      "name": "AnkeTrunken",
+      "description": "der Alkoholikerkanal"
+    },
+    {
       "name": "AnkeQuatscht",
       "description": "der Kennenlern-Kanal"
     },
