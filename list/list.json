@@ -513,6 +513,30 @@
     {
       "name": "AnkeLassen",
       "description": "der Engine-Cold-Start-Kanal"
+    },
+    {
+      "name": "AnkeFochten",
+      "description": "der Revisionskanal"
+    },
+    {
+      "name": "AnkeReichert",
+      "description": "der Zusatzkanal"
+    },
+    {
+      "name": "VorAnkeKommen",
+      "description": "der Fortschrittskanal"
+    },
+    {
+      "name": "AnkeBlich",
+      "description": "der Hochstaplerkanal"
+    },
+    {
+      "name": "AnkeStrengt",
+      "description": "der Quahlnal"
+    },
+    {
+      "name": "AnkeFügt",
+      "description": "der Extension-Kanal"
     }
   ]
 }
