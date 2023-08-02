@@ -9,7 +9,7 @@
         "properties": {
           "name": {
             "type": "string",
-            "pattern": "^Anke([A-Z]+[a-z]*)+"
+            "pattern": "^([A-Z]*[a-z]*)*Anke([A-Z]*[a-z]*)+"
           },
           "description": {
             "type": "string"
@@ -18,7 +18,7 @@
             "type": "array",
             "items": {
               "type": "string",
-              "pattern": "^Anke([A-Z]+[a-z]*)+"
+              "pattern": "^([A-Z]*[a-z]*)*Anke([A-Z]*[a-z]*)+"
             }
           }
         },
