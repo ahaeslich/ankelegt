@@ -538,5 +538,9 @@
       "name": "AnkeFügt",
       "description": "der Extension-Kanal"
     }
+    {
+      "name": "Ankedichtet",
+      "description": "der Lyrik-Kanal"
+    }
   ]
 }
