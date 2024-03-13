@@ -545,6 +545,10 @@
     {
       "name": "AnkeSchuldigt",
       "description": "der Kanal um endgültig die Verursachenden zu proklamieren"
+    },
+    {
+      "name": "AnkeKüsst",
+      "description": "der Dating-Kanal"
     }
   ]
 }
