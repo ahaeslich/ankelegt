@@ -541,6 +541,10 @@
     {
       "name": "Ankedichtet",
       "description": "der Lyrik-Kanal"
+    },
+    {
+      "name": "AnkeSchuldigt",
+      "description": "der Kanal um endgültig die Verursachenden zu proklamieren"
     }
   ]
 }
