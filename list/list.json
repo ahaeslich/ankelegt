@@ -30,7 +30,10 @@
     },
     {
       "name": "AnkeZapft",
-      "description": "der Bierkanal"
+      "description": "der Bierkanal",
+      "alts": [
+        "ankeKegt"
+      ]
     },
     {
       "name": "AnkeZählt",
