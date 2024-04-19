@@ -200,7 +200,10 @@
     },
     {
       "name": "AnkeKlagt",
-      "description": "der Justizkanal"
+      "description": "der Justizkanal",
+      "alts": [
+        "AnkeFochten"
+      ]
     },
     {
       "name": "AnkeStaubt",
