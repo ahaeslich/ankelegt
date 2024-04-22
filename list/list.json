@@ -555,6 +555,10 @@
     {
       "name": "AnkePinnt",
       "description": "der Kanal für PostIt Empfehlungen"
+    },
+    {
+      "name": "AnkeFragt",
+      "description": "der Kanal für Bitten, Gefallen, Aufforderungen etc."
     }
   ]
 }
