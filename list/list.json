@@ -559,6 +559,10 @@
     {
       "name": "AnkeFragt",
       "description": "der Kanal für Bitten, Gefallen, Aufforderungen etc."
+    },
+    {
+      "name": "AnkePasst",
+      "description": "Der 'Ankepasst, damit es Anke passt' - Review Kanal"
     }
   ]
 }
