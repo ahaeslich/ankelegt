@@ -548,6 +548,10 @@
     {
       "name": "AnkeSchuldigt",
       "description": "der Kanal um endgültig die Verursachenden zu proklamieren"
+    },
+    {
+      "name": "AnkeStachelt",
+      "description": "wenn es alle machen, fühlt man sich dazu..."
     }
   ]
 }
