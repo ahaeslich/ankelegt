@@ -538,7 +538,10 @@
     },
     {
       "name": "AnkeStrengt",
-      "description": "der Qualnal"
+      "description": "der Qualnal",
+      "alts": [
+        "unAnkeNehm"
+      ]
     },
     {
       "name": "AnkeFügt",
