@@ -200,7 +200,10 @@
     },
     {
       "name": "AnkeKlagt",
-      "description": "der Justizkanal"
+      "description": "der Justizkanal",
+      "alts": [
+        "AnkeFochten"
+      ]
     },
     {
       "name": "AnkeStaubt",
@@ -535,7 +538,10 @@
     },
     {
       "name": "AnkeStrengt",
-      "description": "der Qualnal"
+      "description": "der Qualnal",
+      "alts": [
+        "unAnkeNehm"
+      ]
     },
     {
       "name": "AnkeFügt",
@@ -550,8 +556,20 @@
       "description": "der Kanal um endgültig die Verursachenden zu proklamieren"
     },
     {
+      "name": "AnkePinnt",
+      "description": "der Kanal für PostIt Empfehlungen"
+    },
+    {
+      "name": "AnkeFragt",
+      "description": "der Kanal für Bitten, Gefallen, Aufforderungen etc."
+    },
+    {
+      "name": "AnkePasst",
+      "description": "der 'Ankepasst, damit es Anke passt' - Review Kanal"
+    },
+    {
       "name": "AnkeStachelt",
-      "description": "die Bienenkanal"
+      "description": "der Bienenkanal"
     }
   ]
 }
