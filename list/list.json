@@ -565,7 +565,11 @@
     },
     {
       "name": "AnkePasst",
-      "description": "Der 'Ankepasst, damit es Anke passt' - Review Kanal"
+      "description": "der 'Ankepasst, damit es Anke passt' - Review Kanal"
+    },
+    {
+      "name": "AnkeStachelt",
+      "description": "der Bienenkanal"
     }
   ]
 }
